@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mFadzilb from Singapore
-- 👀 I’m interested in AI ML Develper role
+- 👀 I’m interested in AI ML Developer, Data Engineer or Data Analyst job role
 - 🌱 I’m currently learning Python Programming for Data engineering and Machine Learning
 - 💞️ I’m looking to collaborate on SaaS
 - 📫 How to reach me ...mfadzilburhan@gmail.com
