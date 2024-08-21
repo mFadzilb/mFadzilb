@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mFadzilb from Singapore
 - 👀 I’m interested in AI ML Developer, Data Engineer or Data Analyst job role
-- 🌱 I’m currently learning Python Programming for Data engineering and Machine Learning
-- 💞️ I’m looking to collaborate on SaaS
+- 🌱 I’m currently learning Python Programming for Data engineering, AI Machine Learning and Deep Learning from NTUC LHub
+- 💞️ I’m looking to collaborate on SaaS and IaaS
 - 📫 How to reach me ...mfadzilburhan@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Soccer, Golf and Guitar
 
 <!---
 mFadzilb/mFadzilb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
