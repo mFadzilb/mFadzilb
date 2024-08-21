@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mFadzilb from Singapore
+- 👋 Hi, I’m Fadzil @mFadzilb from Singapore
 - 👀 I’m interested in AI ML Developer, Data Engineer or Data Analyst job role
 - 🌱 I’m currently learning Python Programming for Data engineering, AI Machine Learning and Deep Learning from NTUC LHub
 - 💞️ I’m looking to collaborate on SaaS and IaaS
