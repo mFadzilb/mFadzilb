@@ -5,7 +5,7 @@
 - ⚡ Train in Structured C programming, Jupyter Notebook for Python, Visual Studio Code for JavaScrip and Microsoft Azure.
 - 💞️ I’m looking to collaborate on SaaS and IaaS
 - 📫 How to reach me ...mfadzilburhan@gmail.com or http://www.linkedin.com/in/mfadzilb-82333222
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... Him/He
 - ⚡ Fun fact: ... Soccer, Golf and Guitar
 
 <!---
