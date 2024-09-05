@@ -1,5 +1,5 @@
 - 👋 Greeting from Singapore, I’m Fadzil @mFadzilb
-- 👀 I’m interested in AI ML Developer, Data Engineer or Data Analyst or even Sales job role
+- 👀 I’m interested in AI ML Developer, Data Engineer, Data Analyst, DevOps or even Sales job role
 - 🌱 I’m currently learning Python Programming for Data engineering, Artificial Intelligence, Machine Learning and Deep Learning from NTUC Learning Hub.
 - ⚡ Expert using Python libraries for Data Visualization and interface with many Databases such SQL, Excel, CSV or etc.
 - ⚡ Train in Structured C programming, Jupyter Notebook for Python, Visual Studio Code for JavaScrip and Microsoft Azure.
