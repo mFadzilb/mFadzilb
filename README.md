@@ -1,4 +1,4 @@
-
+Hi there  I'm 
 
 - 👋 Greetings from Singapore, I’m Fadzil @mFadzilb
 - 👀 I’m interested in AI ML Developer, Data Engineer, Data Analyst, DevOps, Trainer or even Sales job role
