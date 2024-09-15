@@ -1,5 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/e78cbece-9849-4fe6-9064-bab3ac22ead1)
 
 - 👋 Greetings from Singapore, I’m Fadzil @mFadzilb
 - 👀 I’m interested in AI ML Developer, Data Engineer, Data Analyst, DevOps, Trainer or even Sales job role
