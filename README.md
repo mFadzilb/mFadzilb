@@ -1,7 +1,7 @@
 - 👋 Greetings from Singapore, I’m Fadzil
 - 👀 I’m interested in AI ML Developer, Data Engineer, Data Analyst, DevOps, Trainer or even Sales job role
 - 🌱 Completed learning Python Programming for Data engineering, Artificial Intelligence, Machine Learning and Deep Learning from NTUC Learning Hub.
-- ⚡ Expert using Python libraries and Power BI for Data Visualization and interface with many Databases such MySQL, Excel, CSV, Tab or etc.
+- ⚡ Trained in using Python libraries and Power BI for Data Visualization and interface with many Databases such MySQL, Excel, CSV, Tab or etc.
 - ⚡ Trained in Structured programming, Jupyter Notebook for Python, Visual Studio Code, Power BI, MySql, JavaScript and Microsoft Azure AI services.
 - 💞️ I’m looking to collaborate on SaaS and IaaS
 - 📫 How to reach me ...mfadzilburhan@gmail.com or http://www.linkedin.com/in/mfadzilb-82333222
