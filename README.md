@@ -1,5 +1,5 @@
 - 👋 Greetings from Singapore, I’m Fadzil
-- 👀 I’m interested in AI ML Developer, Data Engineer, Data Analyst, Trainer or even Sales job role
+- 👀 I’m interested in Full Stack Developer, AI Machine Learning Developer, Data Engineer, Data Analyst, Trainer or even Sales job role
 - 🌱 Completed learning Python Programming for Data engineering, Artificial Intelligence, Machine Learning and Deep Learning from NTUC Learning Hub.
 - ⚡ Trained in using Python libraries and Power BI for Data Visualization and interface with many Databases such MySQL, Excel, CSV, Tab or etc.
 - ⚡ Trained in Structured programming, Jupyter Notebook for Python, Visual Studio Code, Power BI, MySql, JavaScript and Microsoft Azure AI services.
