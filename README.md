@@ -1,4 +1,4 @@
-- 👋 Greetings from Singapore, I’m Fadzil
+- 👋 Greetings from Singapore, I’m Fadzil, My PortFolio: https://mfadzilb.github.io/PortFolio
 - 👀 I’m interested in Full Stack Developer, AI Machine Learning Developer, Data Analyst, Trainer or even Sales job role
 - ⚡ Trained in HTML, CSS, Javascript, Bootstrap, React, Java, API, Node.js, MySQL Workbench, IntelliJ, VSCode, Git, GitHub, Npm, DevTools, PowerShell, Bash
 - 🌱 Completed learning Python Programming for Data engineering, Artificial Intelligence, Machine Learning and Deep Learning from NTUC Learning Hub.
