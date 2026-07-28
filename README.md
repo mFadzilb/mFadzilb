@@ -1,16 +1,111 @@
-- 👋 Greetings from Singapore, I’m Fadzil.
-- 👀 My PortFolio: https://mfadzilb.github.io/PortFolio OR https://fadzil-portfolio.netlify.app/
-- 👀 I’m interested in Full Stack Developer, AI Machine Learning Developer, Data Analyst, Trainer or even Sales job role
-- ⚡ Trained in HTML, CSS, Javascript, Bootstrap, React, Java, API, Node.js, MySQL Workbench, IntelliJ, VSCode, Git, GitHub, Npm, DevTools, PowerShell, Bash
-- 🌱 Completed learning Python Programming for Data engineering, Artificial Intelligence, Machine Learning and Deep Learning from NTUC Learning Hub.
-- ⚡ Trained in using Python libraries and Power BI for Data Visualization and interface with many Databases such MySQL, Excel, CSV, Tab or etc.
-- ⚡ Trained in Structured programming, Jupyter Notebook for Python, Visual Studio Code, Power BI, MySql, JavaScript and Microsoft Azure AI services.
-- 💞️ I’m looking to collaborate on SaaS and IaaS
-- 📫 How to reach me ...mfadzilburhan@gmail.com or http://www.linkedin.com/in/mfadzilb-82333222
-- 😄 Pronouns: ... Him/He
-- ⚡ Fun fact: ... Soccer, Golf, Guitar and Music
+# 👋 Hello, I'm M Fadzil Burhan 🇸🇬
 
-<!---
-mFadzilb/mFadzilb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Full Stack Developer | AI/ML Developer | Data Analytics Enthusiast
+
+I am a technology professional from Singapore with a background in **Electronics, Computer & Communication Engineering**.
+
+I combine skills in **software development, artificial intelligence, data analytics, and networking solutions** to build practical technology solutions.
+
+---
+
+## 🌐 Portfolio
+
+🔗 Portfolio:
+- https://mfadzilb.github.io/PortFolio
+- https://fadzil-portfolio.netlify.app/
+
+🔗 LinkedIn:
+- http://www.linkedin.com/in/mfadzilb-82333222
+
+📧 Email:
+- mfadzilburhan@gmail.com
+
+---
+
+## 💻 Skills
+
+### Full Stack Development
+
+- HTML, CSS, JavaScript, TypeScript
+- Angular, React, Bootstrap
+- Java, Spring Boot, REST API
+- Node.js, Express.js
+- MySQL, PostgreSQL, SQLite
+- Git, GitHub, VS Code, IntelliJ
+
+---
+
+## 🤖 AI / Machine Learning
+
+Trained in AI/ML development with NTUC LearningHub.
+
+Skills:
+
+- Python Programming
+- Data Analytics
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Predictive Analytics
+
+Tools:
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- Keras
+- OpenCV
+- Jupyter Notebook
+- Power BI
+
+---
+
+## 📊 Featured Projects
+
+🦟 **Dengue Outbreak Analysis**
+- Singapore NEA dataset
+- Data visualization
+- Machine learning prediction
+
+👁️ **Computer Vision Employee Identification**
+- OpenCV image processing
+- CNN deep learning model
+
+📚 **Book Sales Analytics**
+- SQLite database
+- ETL pipeline
+- Bestseller prediction model
+
+📈 **Superstore Sales Analysis**
+- Exploratory Data Analysis
+- Business intelligence insights
+
+---
+
+## ☁️ Cloud & Technical Skills
+
+- Microsoft Azure AI Services
+- AWS ML Fundamentals
+- Database integration
+- Networking & CCTV solutions
+- SaaS / IaaS concepts
+
+---
+
+## 🎯 Career Interests
+
+Looking for opportunities in:
+
+- Full Stack Development
+- AI/ML Development
+- Data Analytics
+- Technical Solutions Engineering
+
+---
+
+## ⚡ Interests
+
+⚽ Football | 🏌️ Golf | 🎸 Guitar | 🎵 Music
+
+⭐ Thanks for visiting my GitHub!
