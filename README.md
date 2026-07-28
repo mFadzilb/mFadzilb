@@ -81,6 +81,14 @@ Tools:
 - Exploratory Data Analysis
 - Business intelligence insights
 
+- 📈 **Frontend Clinic-App using Angular**
+- Clinic App
+- Customer CRUD
+
+- 📈 **My Portfolio**
+- Frontend Web Development
+- With skills and projects highlighted
+
 ---
 
 ## ☁️ Cloud & Technical Skills
