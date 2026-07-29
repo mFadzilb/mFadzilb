@@ -4,7 +4,7 @@
 
 I am a Software Developer (Full-Stack and AI Machine Learning) from Singapore with a background in **Electronics, Computer & Communication Engineering**.
 
-I combine skills in **software development, artificial intelligence, data analytics, and networking solutions** to build practical technology solutions.
+I combine skills in **software development, artificial intelligence, machine learning, version control, data analytics, networking and cctv solutions** to build practical technology solutions.
 
 ---
 
