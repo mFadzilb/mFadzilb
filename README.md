@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer | AI/ML Developer | Data Analytics Enthusiast
 
-I am a technology professional from Singapore with a background in **Electronics, Computer & Communication Engineering**.
+I am a Software Developer (Full-Stack and AI Machine Learning) from Singapore with a background in **Electronics, Computer & Communication Engineering**.
 
 I combine skills in **software development, artificial intelligence, data analytics, and networking solutions** to build practical technology solutions.
 
